@@ -41,5 +41,5 @@ public class Book implements Serializable {
     @Override
     public String toString(){
         return "isbn:"+isbn+" author:" + author + " name:"+ name;
-    }
+    }/*outprint*/
 }
